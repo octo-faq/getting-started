@@ -43,7 +43,8 @@ Don't forget to checkout the Onboarding Guides and FAQ if you have any questions
   
   - How can company allow only the users from inside a company?
 
-    -  
+    -  Enterprise owners can restrict access to assets owned by organizations in an enterprise account by configuring an allow list for specific IP addresses. For example, you can allow access from only the IP address of your office network. The allow list for IP addresses will block access via the web, API, and Git from any IP addresses that are not on the allow list.
+    -  IP allow list can be either set on [Enterprse Account level](https://docs.github.com/en/github/setting-up-and-managing-your-enterprise/enforcing-security-settings-in-your-enterprise-account), or per [Organization level](https://docs.github.com/en/organizations/keeping-your-organization-secure/managing-allowed-ip-addresses-for-your-organization#about-allowed-ip-addresses). 
  
   - How can I download the license for my GitHub Enterprise Instance?
   
