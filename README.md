@@ -47,9 +47,15 @@ Don't forget to checkout the Onboarding Guides and FAQ if you have any questions
     -  IP allow list can be either set on [Enterprse Account level](https://docs.github.com/en/github/setting-up-and-managing-your-enterprise/enforcing-security-settings-in-your-enterprise-account), or per [Organization level](https://docs.github.com/en/organizations/keeping-your-organization-secure/managing-allowed-ip-addresses-for-your-organization#about-allowed-ip-addresses). 
  
   - How can I download the license for my GitHub Enterprise Instance?
-  
-  - What’s the resource requirement to deploy GHES?
+     - When you purchase or renew GitHub Enterprise, you receive a license file to validate your application. A license file has an expiration date and controls the number of user licenses you can add to GitHub Enterprise. You now can download your new license file, then upload the file to GitHub Enterprise Server to [unlock your new user licenses](https://docs.github.com/en/enterprise-server@3.1/admin/overview/managing-your-github-enterprise-license#uploading-a-new-license-to-github-enterprise-server).
+     - You can [connect your GitHub Enterprise Server instance to GitHub Enterprise Cloud](https://docs.github.com/en/enterprise-server@3.1/admin/configuration/enabling-automatic-user-license-sync-between-github-enterprise-server-and-github-enterprise-cloud) and allow GitHub Enterprise Server to upload user license information to your enterprise account on GitHub.com. Site administrators for GitHub Enterprise Server who are also owners of the connected GitHub Enterprise Cloud organization or enterprise account can enable automatic user license synchronization.
+ 
   - What’re the supported virtual infrastructures that GHES can be deployed?
+     - GitHub Enterprise Server instance can be deployed on various virtual platforms and infrastructures.
+     - Cloud Services: [Azure](https://docs.github.com/en/enterprise-server@3.1/admin/installation/installing-github-enterprise-server-on-azure), [AWS](https://docs.github.com/en/enterprise-server@3.1/admin/installation/installing-github-enterprise-server-on-aws), [GCP](https://docs.github.com/en/enterprise-server@3.1/admin/installation/installing-github-enterprise-server-on-google-cloud-platform)
+     - Virtual platforms : [Hyper-V](https://docs.github.com/en/enterprise-server@3.1/admin/installation/installing-github-enterprise-server-on-hyper-v), [OpenStack KVM](https://docs.github.com/en/enterprise-server@3.1/admin/installation/installing-github-enterprise-server-on-openstack-kvm), [VMware](https://docs.github.com/en/enterprise-server@3.1/admin/installation/installing-github-enterprise-server-on-vmware), [XenServer](https://docs.github.com/en/enterprise-server@3.1/admin/installation/installing-github-enterprise-server-on-xenserver)
+     - Please also refer to the minumum requrements on Hardware for each virtual platform
+
 
 
 
