@@ -17,7 +17,7 @@ Don't forget to checkout the Onboarding Guides and FAQ if you have any questions
 ## Onboarding FAQ
 
 
-  - I have multiple GitHub Enterprise Cloud Orgs, Can I combine these one builling entity? 
+  - I have multiple GitHub Enterprise Cloud Orgs, Can I combine these one billing entity? 
   
      -  An [enterprise account](https://docs.github.com/en/github/setting-up-and-managing-your-enterprise/about-enterprise-accounts) allows you to manage multiple GitHub organizations and GitHub Enterprise Server instances. Your enterprise account must have a handle, like an organization or personal account on GitHub.
      
