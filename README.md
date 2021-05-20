@@ -4,8 +4,6 @@ The repositories and contents in this org are to assist you on getting started w
 You can also leverage the template repositories, and tryout various features of GitHub Enterprise. 
 Don't forget to checkout the Onboarding Guides and FAQ if you have any questions. 
 
-## Template repositories
-
 
 ## Onboarding Guide
 - [Getting started with GitHub Enterprise](https://resources.github.com/enterprise-onboarding/)
