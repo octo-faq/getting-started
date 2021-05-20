@@ -11,6 +11,8 @@ Don't forget to checkout the Onboarding Guides and FAQ if you have any questions
 - [GitHub Enterprise Onboarding: Workflow Strategies](https://vimeo.com/333784745)
 - [Organizing people for successful collaboration](https://vimeo.com/333786093)
 - [GitHub Enterprise Onboarding: Managing Projects](https://vimeo.com/333785072)
+- [Configuring GitHub for Collaboration and Compliance](https://github.com/octo-faq/getting-started/blob/97850a1dd15d168b4c66b4bea7c532f1253e6e1c/Configuring%20GitHub%20for%20Collaboration%20and%20Compliance.pdf)
+- [GitHub Intro and Best Practices](https://gist.github.com/jbjonesjr/d4854be10e2df5e2f91c4b4928d8ec68#file-getting-going-best-practices-md)
 
 ## Onboarding FAQ
 
