@@ -13,6 +13,9 @@ Don't forget to checkout the Onboarding Guides and FAQ if you have any questions
 - [GitHub Enterprise Onboarding: Managing Projects](https://vimeo.com/333785072)
 - [Configuring GitHub for Collaboration and Compliance](https://github.com/octo-faq/getting-started/blob/97850a1dd15d168b4c66b4bea7c532f1253e6e1c/Configuring%20GitHub%20for%20Collaboration%20and%20Compliance.pdf)
 - [GitHub Intro and Best Practices](https://gist.github.com/jbjonesjr/d4854be10e2df5e2f91c4b4928d8ec68#file-getting-going-best-practices-md)
+- [C#/JavaScript CodeQL Pull Request Demo](https://gist.github.com/thedave42/ba4bbcf67ceb12dfce075620edea20b2)
+- [CodeQL Workshop for C/C++](https://gist.github.com/lcartey/edbcd403a26b35c1f420d614a7bce0d4)
+- [CodeQL Workshop for Java](https://gist.github.com/adityasharad/468b219fa0f77c8f25337c85db79ef13)
 
 ## Onboarding FAQ
 
