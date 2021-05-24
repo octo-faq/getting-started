@@ -1,7 +1,7 @@
-# getting-started
+# Getting Started
 
-The repositories and contents in this org are to assist you on getting started with GitHub Enterprise trial or production service. 
-You can also leverage the template repositories, and tryout various features of GitHub Enterprise. 
+The repositories and contents in this organisation are to assist you on getting started with GitHub Enterprise trial or production service. 
+You can also leverage the template repositories, and try out various features of GitHub Enterprise. 
 Don't forget to checkout the Onboarding Guides and FAQ if you have any questions. 
 
 
@@ -17,8 +17,8 @@ Don't forget to checkout the Onboarding Guides and FAQ if you have any questions
 - [CodeQL Workshop for C/C++](https://gist.github.com/lcartey/edbcd403a26b35c1f420d614a7bce0d4)
 - [CodeQL Workshop for Java](https://gist.github.com/adityasharad/468b219fa0f77c8f25337c85db79ef13)
 
-## Onboarding FAQ
 
+## Onboarding FAQ
 
   - I have multiple GitHub Enterprise Cloud Orgs, Can I combine these one billing entity? 
   
